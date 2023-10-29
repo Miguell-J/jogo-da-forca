@@ -21,7 +21,9 @@
 ## Como Executar o Jogo
 Certifique-se de ter Python instalado em seu sistema. Você pode executar o jogo da seguinte maneira:
 
-- $python nome_do_arquivo.py
+```bash
+python nome_do_arquivo.py
+```
 
 Substitua nome_do_arquivo.py pelo nome do arquivo onde você salvou o código.
 
